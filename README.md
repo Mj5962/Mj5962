@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mj5962
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
